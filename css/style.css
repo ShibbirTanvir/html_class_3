@@ -225,8 +225,7 @@ header{
 
 }
 
-.video img{
-	width: 100%;
+.video iframe{
 	box-shadow: 2px 3px 15px #282828;
 }
 
